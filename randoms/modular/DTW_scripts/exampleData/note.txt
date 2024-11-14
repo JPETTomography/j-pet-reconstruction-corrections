@@ -1,0 +1,1 @@
+Example data and proper analysis outputs are available at /data/3/users/sparzych/DTW_scripts/exampleData
